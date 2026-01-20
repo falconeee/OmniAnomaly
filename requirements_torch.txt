@@ -1,0 +1,8 @@
+
+# New dependencies for PyTorch version
+torch>=1.0.0
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
